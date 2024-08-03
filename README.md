@@ -1,9 +1,6 @@
 ## Hi there 👋
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
-<!--
-**AbiWD/AbiWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbiWD.AbiWD"/>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
