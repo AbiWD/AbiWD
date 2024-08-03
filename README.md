@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbiWD.AbiWD"/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AbiWD.AbiWD"/>
 
 
 - 🔭 I’m currently working on ...
