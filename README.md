@@ -42,3 +42,12 @@
 </div>
 
 <br/>
+<hr/>
+
+<details>	
+    <summary><b>⚡ GitHub Stats</b></summary>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=AbiWD &show_icons=true&theme=dark&line_height=27&hide_border=true" alt="Abhilash's github stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AbiWD &theme=dark&hide_border=true" alt="Abhilash - Github Readme Streak Stats" />
+</p>
+</details>
