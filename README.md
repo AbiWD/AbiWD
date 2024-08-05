@@ -16,7 +16,7 @@
 
 💬 Ask me about **Html, Css, Javascript...**
 
-⚡ Fun fact **I'm a full-stack development enthusiast who shares a birthday with Eminem!**
+⚡ Fun fact **I'm a full-stack development enthusiast who shares a birthday with Eminem!🎶🎤**
 
  </div>
 
